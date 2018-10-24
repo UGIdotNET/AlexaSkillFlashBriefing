@@ -1,0 +1,14 @@
+{
+  "name": "ugidotnet-newsfeed-alexa-flashbriefing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "UGIdotNET",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.4.3"
+  }
+}
